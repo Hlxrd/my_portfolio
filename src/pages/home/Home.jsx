@@ -13,6 +13,7 @@ export const Home = () => {
             <HeroSec/>
             <AboutSec/>
             <MyProjects/>
+            <Contact/>
         </div>
     );
 };

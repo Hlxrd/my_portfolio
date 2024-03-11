@@ -27,7 +27,6 @@ export const Footer = () => {
                     </li>
                 </ul>
             </footer>
-            <Contact/>
         </>
     );
 };
